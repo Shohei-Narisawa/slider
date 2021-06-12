@@ -1,8 +1,26 @@
-img{
-  width: 500px;
-  height: 300px;
+*{
+  list-style: none;
 }
 
-.slider{
-  list-style: none;
+img{
+  width: 100%;
+  margin: 0 auto;
+  
+}
+
+ul{
+  width: 300px;
+  margin: 50px auto 0;
+  padding-inline-start: 0;
+}
+
+.outer{
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px 20px;
+}
+
+body{
+  color: white;
+  background-color: black;
 }
